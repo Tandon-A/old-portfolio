@@ -1,4 +1,12 @@
-# Image Editing using GAN 
+---
+
+title: 'Image Editing using GAN'
+date: 2018-05-10
+
+---
+
+
+
 
 "I wonder how I would have looked in this picture if I had a hat on...”, "If only I were smiling in this one...” Going through our phone galleries, we have all had similar thoughts every now and then. But you can't change a clicked picture, right?
 
