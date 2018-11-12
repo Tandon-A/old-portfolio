@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Tandon"
-  !!!! add image !!!!
+  # !!!! add image !!!!
   avatar           : "profile.png"
   bio              : "Mechanical Engineering Graduate, BITS Pilani - Pilani Campus"
   location         : "Delhi, India"
