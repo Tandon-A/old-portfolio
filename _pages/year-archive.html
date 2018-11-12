@@ -7,5 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% for post in site.talks %}
+{% include base_path %}
+{% for post in site.posts %}
+  {% include archive-single.html %}
 {% endfor %}
