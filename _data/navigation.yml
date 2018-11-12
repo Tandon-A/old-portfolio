@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/
+    url: https://github.com/Tandon-A?tab=repositories
     
   - title: "Resume"
     url: /resume/
