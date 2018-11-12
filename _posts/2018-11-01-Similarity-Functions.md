@@ -1,4 +1,10 @@
-# Similarity Functions 
+---
+
+title: 'Similaroty Functions'
+date: 2018-11-01
+
+---
+
 
 Generative Deep Learning Models such as the Generative Adversarial Networks (GAN) are used for various image manipulation problems such as scene editing (removing an object from an image) , image generation, style transfer, producing an image as the end result. 
 
