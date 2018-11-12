@@ -1,6 +1,6 @@
 ---
 
-title: 'Similaroty Functions'
+title: 'Similarity Functions'
 date: 2018-11-01
 
 ---
