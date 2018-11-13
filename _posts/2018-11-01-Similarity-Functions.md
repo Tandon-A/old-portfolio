@@ -2,7 +2,7 @@
 
 title: 'Similarity Functions'
 date: 2018-11-01
-excerpt: "<img src='/images/img_proj.png' alt='Project Image' width='450'> <br/> Overview of different loss functions being used to determine similarity between images and their use as an objective function of a Generative Deep Learning model. Function used as Cyclic loss of CycleGAN model. <br/>"
+excerpt: "<img src='/images/img_proj.png' alt='Project Image' width='250'> <br/> Overview of different loss functions being used to determine similarity between images and their use as an objective function of a Generative Deep Learning model. Function used as Cyclic loss of CycleGAN model. <br/>"
 
 ---
 
