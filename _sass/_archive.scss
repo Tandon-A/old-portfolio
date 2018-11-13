@@ -53,6 +53,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  border-bottom: 1px solid $border-color;  
   font-size: $type-size-6;
 
   & + p {
