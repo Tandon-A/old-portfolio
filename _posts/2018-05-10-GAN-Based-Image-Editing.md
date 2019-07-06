@@ -2,7 +2,9 @@
 
 title: 'Image Editing using GAN'
 date: 2018-05-10
-excerpt: "<img src='https://raw.githubusercontent.com/Tandon-A/Image-Editing-using-GAN/master/assets/winter-summer.png' width='30%' alt='Adding Features'> <br/> Using Generative Adversarial Network (GAN) to edit images to have desired attributes such as change of season. <br/>"
+excerpt: "<img src='https://raw.githubusercontent.com/Tandon-A/Image-Editing-using-GAN/master/assets/winter-summer.png' width='15%' alt='Adding Features'> <br/> Using Generative Adversarial Network (GAN) to edit images to have desired attributes such as change of season. <br/>"
+toc: true
+toc_label: Image Editing using GAN
 
 ---
 
