@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Please visit tandon-a.github.io for further details.
-
+Please visit [tandon-a.github.io](tandon-a.github.io) for further details. 
 
